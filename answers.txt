@@ -10,5 +10,9 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: merging preserves the full history, while rebasing creates a linear history.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: Data collection, cleaning, preprocessing, and working with machine learning algorithms
+
 
 
